@@ -7,6 +7,7 @@
 <p align="right">
 <img src="https://user-images.githubusercontent.com/81146509/187402164-eec8e19f-0af1-4278-ab4d-1b7fe0b26941.png" width="110" height="60"/>
 <img src="https://user-images.githubusercontent.com/81146509/187400412-e220714f-1e2f-4dbf-8491-2e5559f1f271.png" width="120" height="70"/>
+<img src="https://user-images.githubusercontent.com/81146509/230471339-691dd58d-f025-4a57-bf03-11bbe92cde66.png" width="120" height="70"/>
 <p/>
 
 > Muhammad Yafie Anwary Rahman <br/>
@@ -16,7 +17,7 @@
 ---
 
 <h1 align="center">
-FIGMA INTRODUCTION INTERFACE DIMENSION 
+INTRODUCTION TO KOTLIN 
 </h1>
 
 ### Hal-Hal yang Dipelajari : <br/>
