@@ -9,23 +9,31 @@
 <img src="https://user-images.githubusercontent.com/81146509/230471339-691dd58d-f025-4a57-bf03-11bbe92cde66.png" width="114" height="109"/>
 <p/>
 
-> Muhammad Yafie Anwary Rahman <br/>
-> Information System - Trunojoyo University <br/>
-> Mobile Programming - 4C
+<h1 align="center"> MUHAMMAD YAFIE ANWARY RAHMAN</h1>
+<h3 align="center"> Sistem Informasi - Universitas Trunojoyo</h3>
+<h3 align="center"> Mobile Programming - 4C</h3>
+<br/>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81146509/187389213-c0c70708-e670-47b1-b012-deee30306691.JPG" width="600" height="400" style="border-radius: 100%;" />
+<p/>
 
 ---
 
-<h1 align="center">
-INTRODUCTION TO KOTLIN
-</h1>
+### About Me
 
-## Praktikum
+- Born at Lamongan, 24th February 2000
+- Domicile at Tuban Regency, East Java
+- Interested with programming, design and video editing
+- Hobbies play music and singing
+- Gender -> male
+- Religion -> Islam
 
-_File ini berisi project yang kalyan kerjakan_
-
-```sh
-Semangaatttt!!!!
-```
+ <br/>
+ 
+<div align="center"; text-style>
+ "Jadilah manusia yang bermanfaat untuk sekitarmu"
+</div>
 
 ---
 

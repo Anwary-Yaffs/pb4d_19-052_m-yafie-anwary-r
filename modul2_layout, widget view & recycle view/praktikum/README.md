@@ -16,7 +16,7 @@
 ---
 
 <h1 align="center">
-INTRODUCTION TO KOTLIN
+LAYOUT, WIDGET VIEW & RECYCLE VIEW
 </h1>
 
 ## Praktikum
