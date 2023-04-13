@@ -29,7 +29,7 @@ INTRODUCTION TO KOTLIN
 
 #### ➡️ Layer Tips <br/>
 
-#### ➡️ Styling on Kotlin
+#### ➡️ Function on Kotlin
 
 ---
 
